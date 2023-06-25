@@ -130,13 +130,3 @@ main {
     font-size: 0.9375rem;
   }
 }
-
-@media (min-width: 38em) {
-  main {
-    max-width: 40rem;
-  }
-}
-
-/* height: 251 px width: 351 px */
-
-/* height: 921 px width: 1107 px */
